@@ -1,5 +1,12 @@
 # ShoeSense
 
+https://www.youtube.com/watch?v=j9svNhyovBE
+
+![alt text](https://raw.githubusercontent.com/anchans/ShoeSense/master/IMG_20170514_231812.jpg)
+![alt text](https://raw.githubusercontent.com/anchans/ShoeSense/master/IMG_20170514_230504.jpg)
+![alt text](https://raw.githubusercontent.com/anchans/ShoeSense/master/S-20-1000-FS15.jpg)
+![alt text](https://raw.githubusercontent.com/anchans/ShoeSense/master/3d.png)
+
 data_Advait, data_Artur, data_Anchan contains data collected from us for each activity. Experiments folder in data_Advait and data_Artur contain the validation activity set experiments mentioned in the report.
 
 Use of scripts:
